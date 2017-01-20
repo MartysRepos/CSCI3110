@@ -1,0 +1,7 @@
+﻿  Ola4.cpp
+c:\users\marta\onedrive\documents\visual studio 2015\projects\ola4\ola4\ola4.cpp(32): warning C4018: '<': signed/unsigned mismatch
+c:\users\marta\onedrive\documents\visual studio 2015\projects\ola4\ola4\ola4.cpp(43): warning C4018: '<': signed/unsigned mismatch
+c:\users\marta\onedrive\documents\visual studio 2015\projects\ola4\ola4\ola4.cpp(51): warning C4018: '<': signed/unsigned mismatch
+c:\users\marta\onedrive\documents\visual studio 2015\projects\ola4\ola4\ola4.cpp(62): warning C4018: '<': signed/unsigned mismatch
+  OLA4.vcxproj -> C:\Users\marta\OneDrive\Documents\Visual Studio 2015\Projects\OLA4\Debug\OLA4.exe
+  OLA4.vcxproj -> C:\Users\marta\OneDrive\Documents\Visual Studio 2015\Projects\OLA4\Debug\OLA4.pdb (Partial PDB)

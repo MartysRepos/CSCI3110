@@ -1,0 +1,13 @@
+﻿  StoreItem.cpp
+  Ola3.cpp
+c:\users\marta\onedrive\documents\visual studio 2015\projects\ola3\ola3\ola3.cpp(132): error C2039: 'getTitle': is not a member of 'StoreItem'
+  c:\users\marta\onedrive\documents\visual studio 2015\projects\ola3\ola3\storeitem.h(15): note: see declaration of 'StoreItem'
+c:\users\marta\onedrive\documents\visual studio 2015\projects\ola3\ola3\ola3.cpp(133): error C2059: syntax error: '}'
+c:\users\marta\onedrive\documents\visual studio 2015\projects\ola3\ola3\ola3.cpp(152): error C2059: syntax error: '/'
+c:\users\marta\onedrive\documents\visual studio 2015\projects\ola3\ola3\ola3.cpp(152): error C2143: syntax error: missing ';' before '}'
+c:\users\marta\onedrive\documents\visual studio 2015\projects\ola3\ola3\ola3.cpp(152): error C2059: syntax error: '}'
+c:\users\marta\onedrive\documents\visual studio 2015\projects\ola3\ola3\ola3.cpp(159): error C2143: syntax error: missing ';' before '{'
+c:\users\marta\onedrive\documents\visual studio 2015\projects\ola3\ola3\ola3.cpp(159): error C2447: '{': missing function header (old-style formal list?)
+  Movie.cpp
+  Book.cpp
+  Generating Code...

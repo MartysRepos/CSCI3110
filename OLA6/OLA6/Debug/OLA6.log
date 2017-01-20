@@ -1,0 +1,12 @@
+﻿  ola6.cpp
+  WordChecker.cpp
+c:\users\marta\onedrive\documents\visual studio 2015\projects\ola6\ola6\wordchecker.cpp(47): warning C4018: '<': signed/unsigned mismatch
+c:\users\marta\onedrive\documents\visual studio 2015\projects\ola6\ola6\wordchecker.cpp(51): warning C4018: '<': signed/unsigned mismatch
+c:\users\marta\onedrive\documents\visual studio 2015\projects\ola6\ola6\wordchecker.cpp(58): warning C4018: '<=': signed/unsigned mismatch
+c:\users\marta\onedrive\documents\visual studio 2015\projects\ola6\ola6\wordchecker.cpp(65): warning C4018: '<': signed/unsigned mismatch
+c:\users\marta\onedrive\documents\visual studio 2015\projects\ola6\ola6\wordchecker.cpp(100): warning C4018: '<': signed/unsigned mismatch
+c:\users\marta\onedrive\documents\visual studio 2015\projects\ola6\ola6\wordchecker.cpp(127): warning C4018: '<': signed/unsigned mismatch
+c:\users\marta\onedrive\documents\visual studio 2015\projects\ola6\ola6\wordchecker.cpp(158): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  OLA6.vcxproj -> C:\Users\marta\OneDrive\Documents\Visual Studio 2015\Projects\OLA6\Debug\OLA6.exe
+  OLA6.vcxproj -> C:\Users\marta\OneDrive\Documents\Visual Studio 2015\Projects\OLA6\Debug\OLA6.pdb (Partial PDB)

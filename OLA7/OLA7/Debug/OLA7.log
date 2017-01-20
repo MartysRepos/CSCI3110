@@ -1,0 +1,18 @@
+﻿  Ola7.cpp
+c:\users\marta\onedrive\documents\visual studio 2015\projects\ola7\ola7\graph.h(35): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\marta\onedrive\documents\visual studio 2015\projects\ola7\ola7\graph.h(40): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\marta\onedrive\documents\visual studio 2015\projects\ola7\ola7\graph.h(46): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  Menu.cpp
+c:\users\marta\onedrive\documents\visual studio 2015\projects\ola7\ola7\graph.h(35): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\marta\onedrive\documents\visual studio 2015\projects\ola7\ola7\graph.h(40): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\marta\onedrive\documents\visual studio 2015\projects\ola7\ola7\graph.h(46): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  Graph.cpp
+c:\users\marta\onedrive\documents\visual studio 2015\projects\ola7\ola7\graph.h(35): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\marta\onedrive\documents\visual studio 2015\projects\ola7\ola7\graph.h(40): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\marta\onedrive\documents\visual studio 2015\projects\ola7\ola7\graph.h(46): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\marta\onedrive\documents\visual studio 2015\projects\ola7\ola7\graph.cpp(31): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\marta\onedrive\documents\visual studio 2015\projects\ola7\ola7\graph.cpp(46): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\marta\onedrive\documents\visual studio 2015\projects\ola7\ola7\graph.cpp(59): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  Generating Code...
+  OLA7.vcxproj -> C:\Users\marta\OneDrive\Documents\Visual Studio 2015\Projects\OLA7\Debug\OLA7.exe
+  OLA7.vcxproj -> C:\Users\marta\OneDrive\Documents\Visual Studio 2015\Projects\OLA7\Debug\OLA7.pdb (Partial PDB)
